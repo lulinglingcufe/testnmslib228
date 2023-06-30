@@ -1,3 +1,21 @@
+*.hdf5
+*.bin
+*.bin.dat
+dense_index_nonoptim.bin.dat  dense_index_optim.bin  dense_index_vptree.bin
+*.txt
+
+sift/
+sift.tar.gz
+
+
+lastfm-64-dot.hdf5 
+hdf5-1.10.10.tar.gz
+hdf5-1.10.10/
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
